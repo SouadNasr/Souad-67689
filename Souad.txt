@@ -1,0 +1,59 @@
+﻿<doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Souad Resume</title>
+        <link rel="stylesheet" href="Style.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+    </head>
+
+    <body style="background-image:url('images.jpg');background-repeat: no-repeat;background-size:100% 100%;background-attachment: fixed;">
+        <div class="row">  
+            <div class="pic_base">
+                <img src="Souad.jpg" width="200px" id="profile-pic" alt="" srcset="">
+                <h1 id="title1">Souad Nasr</h1>
+                <h2 id="title2">Accountant</h2> </div>
+            <div class="content1"> <h4>Souad a driven individual who enjoys a powerful career in the Accounting industry.
+                 After 4 Years She looking to move up to the next phase of her career an feel that she has
+                gained enough experience to date to be able to accomplish this.She dedicated and keen to
+            learn new skills to improve her experience. She is a Very Motivated person who is very keen to have a 
+        successful career within the accounting world for a very long time. </h4></div>
+            <div class="content2">-Contact 
+                <hr id="hr">
+                <div class="wrapper">
+                <ul>
+                <a href="https://www.facebook.com/S.SNacr"><li><i class="fa fa-facebook"></i></li></a>
+                <a href="https://twitter.com/SouadNacr"><li><i class="fa fa-twitter"></i></li></a>
+                <a href="https://www.instagram.com/souadnacr/?hl=en"><li><i class="fa fa-instagram"></i></li></a>
+                <a href="https://maktoob.yahoo.com/?lt=maktoob&p=dnr"><li><i class="fa fa-yahoo"></i></li></a>
+                </ul></div>
+            </div>
+
+            <div class="content3">-Information
+                <hr id="hr">
+                <center>
+                    <h1 style="font-size: 70%;">Birth:20 Oct <br> Phone Number:01140005898 <br> Address:Cairo,Egypt</h1>
+                </center></div>
+            
+            <div class="Education">Education             
+                <hr id="hr2">
+                    <h1 id="h1"> University : Misr University For Science and Technology <br>
+                    Collage : Business Administration <br> Major : Accounting <br> CGPA : 3.8 <br>
+                Grade : -A </h1>
+             </div>
+            <div class="Edit">Skills
+                <hr id="hr2">
+                    <h1 id="h1">-Languages  <br> 1.Arabic <br>2.English<br>3.French
+                         <br> -Computer <br>1.hTML <br> 2.Css <br>3.Microsoft Office 
+                    </h1></div> 
+            <div class="Edit"> Work Experience 
+                <hr id="hr2">
+                    <h1 id="h1">Master degree in Accounting</h1>
+                   
+                </div>
+             
+         </div>   
+    </body>
+</html>
+</doctype>
